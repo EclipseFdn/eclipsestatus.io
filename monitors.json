@@ -1,0 +1,65 @@
+{
+  "monitors": {
+    "http_status": [
+      {
+        "component_name": "www.eclipse.org",
+        "target": "https://www.eclipse.org"
+      },
+      {
+        "component_name": "bugs.eclipse.org",
+        "target": "https://bugs.eclipse.org/bugs/"
+      },
+      {
+        "component_name": "git.eclipse.org/c",
+        "target": "https://git.eclipse.org/c/"
+      },
+      {
+        "component_name": "git.eclipse.org/r",
+        "target": "https://git.eclipse.org/r/"
+      },
+      {
+        "component_name": "wiki.eclipse.org",
+        "target": "https://wiki.eclipse.org"
+      },
+
+      {
+        "component_name": "iot.eclipse.org",
+        "target": "https://iot.eclipse.org"
+      },
+      {
+        "component_name": "openadx.eclipse.org",
+        "target": "https://openadx.eclipse.org"
+      },
+
+      {
+        "component_name": "repo.eclipse.org",
+        "target": "https://repo.eclipse.org"
+      },
+      {
+        "component_name": "ci.eclipse.org",
+        "target": "https://ci.eclipse.org"
+      }
+    ]
+  },
+  "default_configuration": {
+    "http_status": {
+      "method": "GET",
+      
+      "status_code_min": 200,
+      "status_code_max": 399,
+      "timeout": "PT30S",
+      
+      "monitoring_history": "PT4M",
+      "initial_delay": "PT0S",
+      "period": "PT15S",
+
+      "anomalies_detection": {
+        "degraded_performance_threshold": 2,
+        "partial_outage_threshold": 4,
+        "major_outage_threshold": 8,
+        "period": "PT1M",
+        "initial_delay": "PT1M"
+      }
+    }
+  }
+}
