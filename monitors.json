@@ -21,6 +21,10 @@
         "component_name": "wiki.eclipse.org",
         "target": "https://wiki.eclipse.org"
       },
+      {
+        "component_name": "accounts.eclipse.org",
+        "target": "https://accounts.eclipse.org"
+      },
 
       {
         "component_name": "iot.eclipse.org",
