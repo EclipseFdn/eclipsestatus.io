@@ -38,14 +38,78 @@
         "target": "https://www.eclipse.org/forums"
       },
 
+
+
+      {
+        "component_name": "ecdtools.eclipse.org",
+        "target": "https://ecdtools.eclipse.org"
+      },
+      {
+        "component_name": "edgenative.eclipse.org",
+        "target": "https://edgenative.eclipse.org"
+      },
+      {
+        "component_name": "events.eclipse.org",
+        "target": "https://events.eclipse.org"
+      },
       {
         "component_name": "iot.eclipse.org",
         "target": "https://iot.eclipse.org"
       },
       {
+        "component_name": "lts.eclipse.org",
+        "target": "https://lts.eclipse.org"
+      },
+      {
+        "component_name": "jakarta.ee",
+        "target": "https://jakarta.ee"
+      },
+      {
+        "component_name": "jakartaone.org",
+        "target": "https://jakartaone.org"
+      },
+      {
         "component_name": "openadx.eclipse.org",
         "target": "https://openadx.eclipse.org"
       },
+      {
+        "component_name": "openhwgroup.org",
+        "target": "https://www.openhwgroup.org"
+      },
+      {
+        "component_name": "openmdm.org",
+        "target": "https://openmdm.org"
+      },
+      {
+        "component_name": "openmobility.eclipse.org",
+        "target": "https://openmobility.eclipse.org"
+      },
+      {
+        "component_name": "openpass.eclipse.org",
+        "target": "https://openpass.eclipse.org"
+      },
+      {
+        "component_name": "osdforum.org",
+        "target": "https://www.osdforum.org"
+      },
+      {
+        "component_name": "science.eclipse.org",
+        "target": "https://science.eclipse.org"
+      },
+      {
+        "component_name": "sparkplug.eclipse.org",
+        "target": "https://sparkplug.eclipse.org"
+      },
+      {
+        "component_name": "tangle.ee",
+        "target": "https://tangle.ee"
+      },
+      {
+        "component_name": "www.eclipse.org/org/research",
+        "target": "https://www.eclipse.org/org/research"
+      },
+
+
 
       {
         "component_name": "repo.eclipse.org",
