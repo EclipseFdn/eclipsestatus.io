@@ -25,6 +25,18 @@
         "component_name": "accounts.eclipse.org",
         "target": "https://accounts.eclipse.org"
       },
+      {
+        "component_name": "marketplace.eclipse.org",
+        "target": "https://marketplace.eclipse.org"
+      },
+      {
+        "component_name": "www.eclipsecon.org",
+        "target": "https://www.eclipsecon.org"
+      },
+      {
+        "component_name": "www.eclipse.org/forums",
+        "target": "https://www.eclipse.org/forums"
+      },
 
       {
         "component_name": "iot.eclipse.org",
