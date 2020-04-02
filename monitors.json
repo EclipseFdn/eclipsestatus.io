@@ -6,8 +6,12 @@
         "target": "https://www.eclipse.org"
       },
       {
+        "component_name": "download.eclipse.org",
+        "target": "https://download.eclipse.org/eclipse/downloads"
+      },
+      {
         "component_name": "bugs.eclipse.org",
-        "target": "https://bugs.eclipse.org/bugs/"
+        "target": "https://bugs.eclipse.org/bugs/show_bug.cgi?id=12345"
       },
       {
         "component_name": "git.eclipse.org/c",
@@ -112,12 +116,54 @@
 
 
       {
+        "component_name": "ci.eclipse.org",
+        "target": "https://ci.eclipse.org"
+      },
+      {
         "component_name": "repo.eclipse.org",
         "target": "https://repo.eclipse.org"
       },
       {
-        "component_name": "ci.eclipse.org",
-        "target": "https://ci.eclipse.org"
+        "component_name": "help.eclipse.org",
+        "target": "https://help.eclipse.org"
+      },
+
+
+
+      {
+        "component_name": "blogs.eclipse.org",
+        "target": "https://blogs.eclipse.org/blogs/mike-milinkovich"
+      },
+      {
+        "component_name": "events.eclipse.org",
+        "target": "https://events.eclipse.org"
+      },
+      {
+        "component_name": "planeteclipse.org",
+        "target": "https://planeteclipse.org/planet/"
+      },
+
+
+
+      {
+        "component_name": "api.eclipse.org",
+        "target": "https://api.eclipse.org/account/profile/webmaster"
+      },
+      {
+        "component_name": "projects.eclipse.org",
+        "target": "https://projects.eclipse.org/api/projects/technology_cbi"
+      },
+      {
+        "component_name": "Bots API",
+        "target": "https://api.eclipse.org/bots?q=cbi"
+      },
+      {
+        "component_name": "GeoIP API",
+        "target": "https://api.eclipse.org/geoip/countries/198.41.30.198"
+      },
+      {
+        "component_name": "API Documentation",
+        "target": "https://api.eclipse.org/"
       }
     ]
   },
