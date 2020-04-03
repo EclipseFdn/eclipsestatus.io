@@ -10,6 +10,10 @@
         "target": "https://download.eclipse.org/eclipse/downloads"
       },
       {
+        "component_name": "archive.eclipse.org"
+        "target": "https://archive.eclipse.org/eclipse/downloads/"
+      },
+      {
         "component_name": "bugs.eclipse.org",
         "target": "https://bugs.eclipse.org/bugs/show_bug.cgi?id=12345"
       },
