@@ -10,7 +10,7 @@
         "target": "https://download.eclipse.org/eclipse/downloads"
       },
       {
-        "component_name": "archive.eclipse.org"
+        "component_name": "archive.eclipse.org",
         "target": "https://archive.eclipse.org/eclipse/downloads/"
       },
       {
