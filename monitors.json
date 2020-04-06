@@ -7,7 +7,7 @@
       },
       {
         "component_name": "download.eclipse.org",
-        "target": "https://download.eclipse.org/eclipse/downloads"
+        "target": "https://download.eclipse.org/eclipse/downloads/"
       },
       {
         "component_name": "archive.eclipse.org",
@@ -19,7 +19,7 @@
       },
       {
         "component_name": "git.eclipse.org/c",
-        "target": "https://git.eclipse.org/c/"
+        "target": "https://git.eclipse.org/c/cbi/org.eclipse.cbi.git/"
       },
       {
         "component_name": "git.eclipse.org/r",
