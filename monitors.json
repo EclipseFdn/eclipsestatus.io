@@ -177,7 +177,8 @@
       
       "status_code_min": 200,
       "status_code_max": 399,
-      "timeout": "PT30S",
+      "connectTimeout": "PT20S",
+      "readTimeout": "PT20S",
       
       "monitoring_history": "PT4M",
       "initial_delay": "PT0S",
