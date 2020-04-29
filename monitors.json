@@ -143,6 +143,10 @@
         "target": "https://events.eclipse.org"
       },
       {
+        "component_name": "newsroom.eclipse.org",
+        "target": "https://newsroom.eclipse.org"
+      },
+      {
         "component_name": "planeteclipse.org",
         "target": "https://planeteclipse.org/planet/"
       },
