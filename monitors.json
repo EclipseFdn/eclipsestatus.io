@@ -26,6 +26,10 @@
         "target": "https://git.eclipse.org/r/"
       },
       {
+        "component_name": "gitlab.eclipse.org",
+        "target": "https://gitlab.eclipse.org"
+      },
+      {
         "component_name": "wiki.eclipse.org",
         "target": "https://wiki.eclipse.org"
       },
