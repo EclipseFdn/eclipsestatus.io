@@ -188,14 +188,14 @@
       "connectTimeout": "PT20S",
       "readTimeout": "PT20S",
       
-      "monitoring_history": "PT4M",
+      "monitoring_history": "PT2M",
       "initial_delay": "PT0S",
-      "period": "PT15S",
+      "period": "PT10S",
 
       "anomalies_detection": {
-        "degraded_performance_threshold": 2,
-        "partial_outage_threshold": 4,
-        "major_outage_threshold": 8,
+        "degraded_performance_threshold": 8,
+        "partial_outage_threshold": 10,
+        "major_outage_threshold": 12,
         "period": "PT1M",
         "initial_delay": "PT1M"
       }
