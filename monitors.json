@@ -176,6 +176,10 @@
       {
         "component_name": "API Documentation",
         "target": "https://api.eclipse.org/"
+      },
+      {
+        "component_name": "open-vsx.org",
+        "target": "https://open-vsx.org"
       }
     ]
   },
