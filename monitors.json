@@ -19,7 +19,7 @@
       },
       {
         "component_name": "git.eclipse.org/c",
-        "target": "https://git.eclipse.org/c/cbi/org.eclipse.cbi.git/"
+        "target": "https://git.eclipse.org/c/jdt/eclipse.jdt.core.git/"
       },
       {
         "component_name": "git.eclipse.org/r",
