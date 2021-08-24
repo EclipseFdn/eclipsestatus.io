@@ -51,7 +51,10 @@
       },
 
 
-
+      {
+        "component_name": "asciidoc-wg.eclipse.org",
+        "target": "https://asciidoc-wg.eclipse.org"
+      },
       {
         "component_name": "ecdtools.eclipse.org",
         "target": "https://ecdtools.eclipse.org"
@@ -65,6 +68,10 @@
         "target": "https://events.eclipse.org"
       },
       {
+        "component_name": "ide-wg.eclipse.org",
+        "target": "https://ide-wg.eclipse.org"
+      },
+      {
         "component_name": "iot.eclipse.org",
         "target": "https://iot.eclipse.org"
       },
@@ -75,6 +82,10 @@
       {
         "component_name": "jakarta.ee",
         "target": "https://jakarta.ee"
+      },
+      {
+        "component_name": "jakartablogs.ee",
+        "target": "https://jakartablogs.ee"
       },
       {
         "component_name": "jakartaone.org",
@@ -101,8 +112,16 @@
         "target": "https://openpass.eclipse.org"
       },
       {
+        "component_name": "openresearchsw.eclipse.org",
+        "target": "https://openresearchsw.eclipse.org"
+      },
+      {
         "component_name": "osdforum.org",
         "target": "https://www.osdforum.org"
+      },
+      {
+        "component_name": "osgi.org",
+        "target": "https://osgi.org"
       },
       {
         "component_name": "science.eclipse.org",
@@ -143,12 +162,28 @@
         "target": "https://blogs.eclipse.org/blogs/mike-milinkovich"
       },
       {
+        "component_name": "entrepreneurialopensource.org",
+        "target": "https://entrepreneurialopensource.org"
+      },
+      {
         "component_name": "events.eclipse.org",
         "target": "https://events.eclipse.org"
       },
       {
+        "component_name": "membership.eclipse.org",
+        "target": "https://membership.eclipse.org"
+      },
+      {
         "component_name": "newsroom.eclipse.org",
         "target": "https://newsroom.eclipse.org"
+      },
+      {
+        "component_name": "opensourceinnovation.eu",
+        "target": "https://opensourceinnovation.eu"
+      },
+      {
+        "component_name": "ospo.zone",
+        "target": "https://ospo.zone"
       },
       {
         "component_name": "planeteclipse.org",
@@ -156,10 +191,17 @@
       },
 
 
-
       {
         "component_name": "api.eclipse.org",
         "target": "https://api.eclipse.org/account/profile/webmaster"
+      },
+      {
+        "component_name": "Adopters API",
+        "target": "https://api.eclipse.org/adopters/projects"
+      },
+      {
+        "component_name": "ECA API",
+        "target": "https://api.eclipse.org/git/"
       },
       {
         "component_name": "projects.eclipse.org",
@@ -186,12 +228,12 @@
   "default_configuration": {
     "http_status": {
       "method": "GET",
-      
+
       "status_code_min": 200,
       "status_code_max": 399,
       "connectTimeout": "PT20S",
       "readTimeout": "PT20S",
-      
+
       "monitoring_history": "PT2M",
       "initial_delay": "PT0S",
       "period": "PT10S",
