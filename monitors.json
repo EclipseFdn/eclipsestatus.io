@@ -51,6 +51,7 @@
       },
 
 
+
       {
         "component_name": "asciidoc-wg.eclipse.org",
         "target": "https://asciidoc-wg.eclipse.org"
@@ -189,6 +190,7 @@
         "component_name": "planeteclipse.org",
         "target": "https://planeteclipse.org/planet/"
       },
+
 
 
       {
