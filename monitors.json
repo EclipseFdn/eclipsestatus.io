@@ -49,9 +49,6 @@
         "component_name": "www.eclipse.org/forums",
         "target": "https://www.eclipse.org/forums"
       },
-
-
-
       {
         "component_name": "asciidoc-wg.eclipse.org",
         "target": "https://asciidoc-wg.eclipse.org"
@@ -93,6 +90,10 @@
         "target": "https://jakartaone.org"
       },
       {
+        "component_name": "oniroproject.org",
+        "target": "https://oniroproject.org"
+      },
+      {
         "component_name": "openadx.eclipse.org",
         "target": "https://openadx.eclipse.org"
       },
@@ -115,6 +116,10 @@
       {
         "component_name": "openresearchsw.eclipse.org",
         "target": "https://openresearchsw.eclipse.org"
+      },
+      {
+        "component_name": "opensourceinnovation.eu",
+        "target": "https://opensourceinnovation.eu"
       },
       {
         "component_name": "osdforum.org",
