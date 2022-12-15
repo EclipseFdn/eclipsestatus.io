@@ -208,7 +208,7 @@
       },
       {
         "component_name": "ECA API",
-        "target": "https://api.eclipse.org/git/"
+        "target": "https://api.eclipse.org/git/q/health"
       },
       {
         "component_name": "projects.eclipse.org",
