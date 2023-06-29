@@ -211,6 +211,10 @@
         "target": "https://api.eclipse.org/git/q/health"
       },
       {
+        "component_name": "Media Link API",
+        "target": "https://api.eclipse.org/media/youtube/managed_channels"
+      },
+      {
         "component_name": "projects.eclipse.org",
         "target": "https://projects.eclipse.org/api/projects/technology_cbi"
       },
