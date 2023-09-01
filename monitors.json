@@ -66,8 +66,8 @@
         "target": "https://events.eclipse.org"
       },
       {
-        "component_name": "ide-wg.eclipse.org",
-        "target": "https://ide-wg.eclipse.org"
+        "component_name": "eclipseide.org",
+        "target": "https://eclipseide.org"
       },
       {
         "component_name": "iot.eclipse.org",
@@ -138,8 +138,8 @@
         "target": "https://sparkplug.eclipse.org"
       },
       {
-        "component_name": "tangle.ee",
-        "target": "https://tangle.ee"
+        "component_name": "sdv.eclipse.org",
+        "target": "https://sdv.eclipse.org"
       },
       {
         "component_name": "www.eclipse.org/org/research",
