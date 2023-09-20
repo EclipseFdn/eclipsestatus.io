@@ -146,8 +146,6 @@
         "target": "https://www.eclipse.org/org/research"
       },
 
-
-
       {
         "component_name": "ci.eclipse.org",
         "target": "https://ci.eclipse.org"
