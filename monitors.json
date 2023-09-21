@@ -146,8 +146,6 @@
         "target": "https://www.eclipse.org/org/research"
       },
 
-
-
       {
         "component_name": "ci.eclipse.org",
         "target": "https://ci.eclipse.org"
@@ -228,7 +226,7 @@
       },
       {
         "component_name": "API Documentation",
-        "target": "https://api.eclipse.org/"
+        "target": "https://webdev.eclipse.org/docs/api/"
       }
     ]
   },
